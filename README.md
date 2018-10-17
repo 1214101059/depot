@@ -1,0 +1,2 @@
+# depot
+Generar compra completa
